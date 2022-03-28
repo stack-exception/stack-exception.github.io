@@ -9,11 +9,9 @@ layout: default
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-6 text-center mx-auto mt-md-n7">
-            <h4 class="text-gradient text-primary fadeIn1 fadeInBottom">Join Our Team</h4>
-            <h1 class="text-white fadeIn2 fadeInBottom">Work with the rockets</h1>
-            <p class="lead mb-5 fadeIn3 fadeInBottom text-white opacity-6">We’re constantly trying to express ourselves and actualize our dreams. If you have the opportunity to play this game</p>
-            <button type="submit" class="btn bg-white btn-rounded me-2 fadeIn1 fadeInBottom">Get started</button>
-            <button type="submit" class="btn bg-white btn-icon-only rounded-circle fadeIn1 fadeInBottom"><i class="fas fa-play" aria-hidden="true"></i></button>
+            <h1 class="text-gradient text-primary fadeIn1 fadeInBottom">Join Our Team</h1>
+            <p class="lead mb-5 fadeIn3 fadeInBottom text-white opacity-6">We are a team of Passionate People who want to transform the lives of people and businesses with the Technology by helping them take full advantage of the Digital Presence.</p>
+            <a href="#job-openings"><button type="submit" class="btn bg-white btn-rounded me-2 fadeIn1 fadeInBottom">Get started</button></a>
           </div>
         </div>
       </div>
@@ -58,8 +56,8 @@ layout: default
                 </g>
               </svg>
             </div>
-            <h5 class="mt-2">Good Location</h5>
-            <p>We get insulted by others, lose trust for those We get back.</p>
+            <h5 class="mt-2">Work from Anywhere</h5>
+            <p>Work from home, office or anywhere you prefer.</p>
           </div>
         </div>
         <div class="col-lg-3 col-md-6">
@@ -81,7 +79,7 @@ layout: default
               </svg>
             </div>
             <h5 class="mt-2">Great Co-Workers</h5>
-            <p>We get insulted by others, lose trust for those We get back.</p>
+            <p>A team of passionate people with a single goal.</p>
           </div>
         </div>
         <div class="col-lg-3 col-md-6">
@@ -104,7 +102,7 @@ layout: default
               </svg>
             </div>
             <h5 class="mt-2">Learn Opportunity</h5>
-            <p>We get insulted by others, lose trust for those We get back.</p>
+            <p>A lot of scope to learn new skills and upgrade yourself.</p>
           </div>
         </div>
         <div class="col-lg-3 col-md-6">
@@ -126,59 +124,32 @@ layout: default
               </svg>
             </div>
             <h5 class="mt-2">Performance Benefits</h5>
-            <p>We get insulted by others, lose trust for those We get back.</p>
+            <p>Let the work speak for you.</p>
           </div>
         </div>
       </div>
     </div>
   </section>
 
-<section class="py-sm-7 py-5">
+<section class="py-sm-7 py-5" id="job-openings">
     <div class="container">
       <div class="row">
-        <div class="col-lg-6">
+        <div class="col-lg-10">
           <h2>Job openings</h2>
-          <p>The Arctic Ocean freezes every winter and much of the sea-ice then thaws every summer, and that process will continue whatever.</p>
-        </div>
-        <div class="col-lg-6 text-end d-flex flex-column justify-content-center">
-          <button type="button" class="btn bg-gradient-primary mb-0 ms-lg-auto me-lg-0 me-auto mt-lg-0 mt-2">See all</button>
+          <p></p>
         </div>
       </div>
       <div class="row mt-5">
-        <div class="col-sm-6 col-lg-4 mt-lg-0 mt-4">
-          <img class="width-48-px mb-3" src="../assets/img/logos/small-logos/logo-atlassian.svg" alt="logo">
-          <h5>Data Analyst</h5>
-          <p class="text-sm">Check out our proven methods, guides, and exercises that help make work better, and people happier.</p>
-          <a href="javascript:;" class="btn btn-outline-secondary btn-sm">Apply here</a>
-        </div>
-        <div class="col-sm-6 col-lg-4 mt-lg-0 mt-4">
-          <img class="width-48-px mb-3" src="../assets/img/logos/small-logos/logo-asana.svg" alt="logo">
-          <h5>Product Designer</h5>
-          <p class="text-sm">Check out our proven methods, guides, and exercises that help make work better, and people happier.</p>
-          <a href="javascript:;" class="btn btn-outline-secondary btn-sm">Apply here</a>
-        </div>
-        <div class="col-sm-6 col-lg-4 mt-lg-0 mt-4">
-          <img class="width-48-px mb-3" src="../assets/img/logos/small-logos/logo-shopify.svg" alt="logo">
-          <h5>E-commerce Developer</h5>
-          <p class="text-sm">Check out our proven methods, guides, and exercises that help make work better, and people happier.</p>
-          <a href="javascript:;" class="btn btn-outline-secondary btn-sm">Apply here</a>
-        </div>
-        <div class="col-sm-6 col-lg-4 mt-lg-5 mt-4">
-          <img class="width-48-px mb-3" src="../assets/img/logos/small-logos/logo-invision.svg" alt="logo">
-          <h5>Digital Product Design</h5>
-          <p class="text-sm">Check out our proven methods, guides, and exercises that help make work better, and people happier.</p>
-          <a href="javascript:;" class="btn btn-outline-secondary btn-sm">Apply here</a>
-        </div>
         <div class="col-sm-6 col-lg-4 mt-lg-5 mt-4">
           <img class="width-48-px mb-3" src="../assets/img/logos/small-logos/logo-slack.svg" alt="logo">
-          <h5>Communication Agent</h5>
-          <p class="text-sm">Check out our proven methods, guides, and exercises that help make work better, and people happier.</p>
+          <h5>Social Media Handler - Intern</h5>
+          <p class="text-sm">A person with good Social Media experience who can connect our team with the outside world.</p>
           <a href="javascript:;" class="btn btn-outline-secondary btn-sm">Apply here</a>
         </div>
         <div class="col-sm-6 col-lg-4 mt-lg-5 mt-4">
           <img class="width-48-px mb-3" src="../assets/img/logos/small-logos/logo-webdev.svg" alt="logo">
-          <h5>Logo Designer</h5>
-          <p class="text-sm">Check out our proven methods, guides, and exercises that help make work better, and people happier.</p>
+          <h5>Video Editor - Intern</h5>
+          <p class="text-sm">A person having good experience in the in editing and creating videos.</p>
           <a href="javascript:;" class="btn btn-outline-secondary btn-sm">Apply here</a>
         </div>
       </div>
