@@ -4,7 +4,7 @@ permalink: "/pricing.html"
 layout: default
 ---
 
-<section class="py-7">
+<!-- <section class="py-7">
     <div class="container">
       <div class="row">
         <div class="col-lg-8">
@@ -251,7 +251,7 @@ layout: default
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 
 <section class="py-lg-7 pb-5">
     <div class="bg-gradient-dark position-relative m-3 border-radius-xl">
@@ -260,13 +260,17 @@ layout: default
         <div class="row">
           <div class="col-md-8 mx-auto text-center">
             <span class="badge bg-gradient-info mb-2">Pricing</span>
-            <h3 class="text-white">See our pricing</h3>
-            <p class="text-white">You have Free Unlimited Updates and Premium Support on each package.</p>
+            <h3 class="text-white">Contact Us for Service Specific Plans</h3>
+            <p class="text-white">We at Stack Exception belive in adding a value in the Services we offer. Our Vision is to transform the local buisinesses and lives of the people using the Digital Technology.</p>
+            <p class="text-white">Please Contact us through the below form, and Our Team will contact you with the details.</p>
+                <a href="javascript:;" class="btn btn-icon bg-gradient-warning d-block mb-0">
+                  Buy now
+                </a>
           </div>
         </div>
       </div>
     </div>
-    <div class="mt-sm-n8 mt-n7">
+<!--     <div class="mt-sm-n8 mt-n7">
       <div class="container">
         <div class="row">
           <div class="col-lg-3 mb-lg-auto mb-4 my-auto p-md-0 ms-auto">
@@ -425,5 +429,5 @@ layout: default
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
   </section>
