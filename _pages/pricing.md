@@ -276,8 +276,8 @@ layout: default
             
           </div>
           <div class="col-lg-6 p-md-0 mb-lg-auto mb-4 z-index-2">
-            <div class="card">
-              <a href="https://stack-exception.github.io/registration" class="btn btn-sm  bg-gradient-primary  btn-round mb-0 me-1 mt-2 mt-md-0">Hire Us</a>
+            <div class="card btn btn-sm  bg-gradient-primary  btn-round mb-0 me-1 mt-2 mt-md-0">
+              <a href="https://stack-exception.github.io/registration" class="text-white">Hire Us</a>
             </div>
           </div>
           <div class="col-lg-3 mb-lg-auto mb-4 my-auto p-md-0 me-auto">
