@@ -253,6 +253,7 @@ layout: default
     </div>
   </section> -->
 
+
 <section class="py-lg-7 pb-5">
     <div class="bg-gradient-dark position-relative m-3 border-radius-xl">
       <img src="../assets/img/shapes/waves-white.svg" alt="pattern-lines" class="position-absolute start-0 top-md-0 w-100 opacity-6">
@@ -263,13 +264,14 @@ layout: default
             <h3 class="text-white">Contact Us for Service Specific Plans</h3>
             <p class="text-white">We at Stack Exception belive in adding a value in the Services we offer. Our Vision is to transform the local buisinesses and lives of the people using the Digital Technology.</p>
             <p class="text-white">Please Contact us through the below form, and Our Team will contact you with the details.</p>
-                <a href="javascript:;" class="btn btn-icon bg-gradient-warning d-block mb-0">
-                  Buy now
-                </a>
           </div>
         </div>
       </div>
+    <div class="container">
+    <a href="https://stack-exception.github.io/registration" class="btn btn-sm  bg-gradient-primary  btn-round mb-0 me-1 mt-2 mt-md-0">Hire Us</a>
     </div>
+    </div>
+    
 <!--     <div class="mt-sm-n8 mt-n7">
       <div class="container">
         <div class="row">
