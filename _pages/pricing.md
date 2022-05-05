@@ -267,12 +267,9 @@ layout: default
           </div>
         </div>
       </div>
-    <div class="container">
-    <a href="https://stack-exception.github.io/registration" class="btn btn-sm  bg-gradient-primary  btn-round mb-0 me-1 mt-2 mt-md-0">Hire Us</a>
-    </div>
     </div>
     
-<!--     <div class="mt-sm-n8 mt-n7">
+<div class="mt-sm-n8 mt-n7">
       <div class="container">
         <div class="row">
           <div class="col-lg-3 mb-lg-auto mb-4 my-auto p-md-0 ms-auto">
@@ -431,5 +428,5 @@ layout: default
           </div>
         </div>
       </div>
-    </div> -->
+    </div>
   </section>
