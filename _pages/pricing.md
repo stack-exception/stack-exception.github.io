@@ -277,15 +277,7 @@ layout: default
           </div>
           <div class="col-lg-6 p-md-0 mb-lg-auto mb-4 z-index-2">
             <div class="card">
-              <div class="card-body mx-auto pt-0">
-                <div class="justify-content-start d-flex px-2 py-1">
-                    <p class="text-white">We at Stack Exception belive in adding a value in the Services we offer. Our Vision is to transform the local buisinesses and lives of the people using the Digital Technology.</p>
-                    <p class="text-white">Please Contact us through the below form, and Our Team will contact you with the details.</p>
-                </div>
-              </div>
-              <div class="card-footer pt-0">
-                <a href="https://stack-exception.github.io/registration" class="btn btn-sm  bg-gradient-primary  btn-round mb-0 me-1 mt-2 mt-md-0">Hire Us</a>
-              </div>
+              <a href="https://stack-exception.github.io/registration" class="btn btn-sm  bg-gradient-primary  btn-round mb-0 me-1 mt-2 mt-md-0">Hire Us</a>
             </div>
           </div>
           <div class="col-lg-3 mb-lg-auto mb-4 my-auto p-md-0 me-auto">
